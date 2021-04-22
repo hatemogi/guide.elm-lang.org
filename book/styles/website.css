@@ -109,3 +109,9 @@
 	color: #f4f4f5;
 	border-bottom-color: #272a3a;
 }
+
+.book em
+{
+	background-color: yellow;
+	font-style: normal;
+}
